@@ -21,7 +21,7 @@ class MetasploitModule < Msf::Post
   end
 
   def run
-    # Main method
+    # do stuff here -->
   end
 
 end
